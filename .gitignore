@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.~ipynb
+
+# Data / models
+data/
+models/
+results/
+
+# System
+.DS_Store
+*.log
